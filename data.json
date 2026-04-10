@@ -1,0 +1,38 @@
+{
+  "system_config": {
+    "last_global_update": "2026-04-10T14:00:00Z",
+    "refresh_interval_ms": 5000
+  },
+  "mechanics": {
+    "mechanic1": {
+      "profile": {
+        "firstName": "Sam",
+        "lastName": "Hill",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sam",
+        "position": "Senior Mechanic",
+        "assignedTo": "John Heart"
+      },
+      "stats": {
+        "totalOrders": 12,
+        "pending": 4,
+        "equipmentCount": 8
+      },
+      "workOrders": [
+        {
+          "id": "WO-1001",
+          "priority": "High",
+          "equipment": "Excavator 3000",
+          "progress": 75,
+          "status": "Running"
+        },
+        {
+          "id": "WO-1005",
+          "priority": "Low",
+          "equipment": "Generator B2",
+          "progress": 10,
+          "status": "Pending"
+        }
+      ]
+    }
+  }
+}
