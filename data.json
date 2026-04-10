@@ -14,8 +14,8 @@
       },
       "stats": {
         "totalOrders": 42,
-        "pending": 7,
-        "equipmentCount": 10
+        "pending": 10,
+        "equipmentCount": 1
       },
       "workOrders": [
         {
