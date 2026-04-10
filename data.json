@@ -13,9 +13,9 @@
         "assignedTo": "John Heart"
       },
       "stats": {
-        "totalOrders": 12,
-        "pending": 21,
-        "equipmentCount": 31
+        "totalOrders": 2,
+        "pending": 1,
+        "equipmentCount": 1
       },
       "workOrders": [
         {
